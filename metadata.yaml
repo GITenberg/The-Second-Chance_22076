@@ -1,0 +1,31 @@
+_repo: The-Second-Chance_22076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McClung, Nellie L.
+    aliases:
+    - McClung, Nellie Letitia Mooney
+    - Mooney, Nellie Letitia
+    birthdate: 1873
+    deathdate: 1951
+    gutenberg_agent_id: '1470'
+    url: http://www.gutenberg.org/2009/agents/1470
+    wikipedia: http://en.wikipedia.org/wiki/Nellie_McClung
+description: Second volume of the "Pearl Watson" trilogy.
+gutenberg_issued: '2007-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Manitoba -- Fiction'
+title: The Second Chance
+url: http://www.gutenberg.org/ebooks/22076
